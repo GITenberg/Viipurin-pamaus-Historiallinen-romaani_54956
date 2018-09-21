@@ -1,0 +1,28 @@
+_repo: Viipurin-pamaus-Historiallinen-romaani_54956
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ivalo, Santeri
+    aliases:
+    - Ingman, Santeri
+    - Ivalo, Herman Aleksander
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '31820'
+    url: http://www.gutenberg.org/2009/agents/31820
+    wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
+description: ''
+gutenberg_issued: '2017-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54956'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Viipurin pamaus
+
+  Historiallinen romaani'
+url: http://www.gutenberg.org/ebooks/54956
